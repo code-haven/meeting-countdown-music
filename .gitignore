@@ -1,0 +1,22 @@
+# Audio files (likely copyrighted — users supply their own)
+*.mp3
+*.wav
+*.m4a
+*.ogg
+
+# Runtime state
+*.log
+.last_played_date
+stdout.log
+stderr.log
+
+# User config (contains personal settings)
+config.ini
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
