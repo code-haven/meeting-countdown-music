@@ -1,6 +1,7 @@
-# Meeting Countdown Timer for macOS
+# Meeting Countdown Music
+A background service that plays a countdown audio clip (e.g. the BBC News countdown) timed to end exactly when your first meeting of the day starts. 
 
-A background service that plays a countdown audio clip (e.g. the BBC News countdown) timed to end exactly when your first meeting of the day starts. Think of it as your personal "we're going live" moment before every standup.
+Inspired by this tweet: https://x.com/rtwlz/status/2036082537949434164 that played the BBC news theme (epic)
 
 ## How it works
 
