@@ -1,5 +1,5 @@
 # Meeting Countdown Music
-A background service that plays a countdown audio clip (e.g. the BBC News countdown) timed to end exactly when your first meeting of the day starts. 
+A background service that plays a countdown audio clip timed to end exactly when your first meeting of the day starts. 
 
 Inspired by this tweet: https://x.com/rtwlz/status/2036082537949434164 that played the BBC news theme (epic)
 
