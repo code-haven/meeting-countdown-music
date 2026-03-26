@@ -55,23 +55,12 @@ Copy `config.example.ini` to `config.ini` and edit:
 | `poll_interval` | `15` | Seconds between calendar checks |
 | `calendar_account` | *(blank = all)* | Filter to a specific calendar account (e.g. `you@gmail.com`) |
 
-You can also set these via environment variables prefixed with `COUNTDOWN_`:
-
-```bash
-export COUNTDOWN_AUDIO_FILE=/path/to/audio.mp3
-export COUNTDOWN_DURATION=30
-export COUNTDOWN_CALENDAR_ACCOUNT=you@gmail.com
-```
-
-Priority: `config.ini` > environment variables > defaults.
-
 ## Where to get a countdown audio file
 
 The repo does not include an audio file. Some options:
 
 - [BBC News countdown on archive.org](https://archive.org/details/tvtunes_26038)
-- [Countdown clock sounds on Freesound](https://freesound.org/)
-- Any MP3/audio file that `afplay` can handle
+
 
 ## Usage
 
